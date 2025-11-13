@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Hello, welcome! 
+This is the individual project planning stage of Max Ellison for the DSCI 100 class. This project will be snyched with JupyterLab.
